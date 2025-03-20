@@ -4,4 +4,4 @@
 
 ### Get in Touch
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<여러분들 linkedin 주소>)](<여러분들 linkedin 주소>)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A7%80%EC%9B%85-%EA%B9%80-50812319b/)](https://www.linkedin.com/in/%EC%A7%80%EC%9B%85-%EA%B9%80-50812319b/)
